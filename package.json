@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-first-boilerplate",
+  "version": "1.0.0",
+  "description": "Projeto base em NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexandraaversani/nodejs-first-boilerplate.git"
+  },
+  "keywords": [
+    "SENAI",
+    "nodeJS",
+    "back-end",
+    "Github"
+  ],
+  "author": "Alexandra Aversani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alexandraaversani/nodejs-first-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Alexandraaversani/nodejs-first-boilerplate#readme"
+}
